@@ -1,0 +1,6 @@
+      real*8 function f(m,V)
+      real*8 :: m,V
+      f=m-V
+      return
+      end
+  
